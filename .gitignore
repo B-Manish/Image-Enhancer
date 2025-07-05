@@ -1,2 +1,5 @@
-frames/
 venv/
+tensvenv/
+tensenv/
+data/high_res/
+data/low_res/
